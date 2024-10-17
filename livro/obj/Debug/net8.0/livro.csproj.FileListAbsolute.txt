@@ -1,0 +1,15 @@
+C:\Users\Aluno\Desktop\abner\GerenciamentoBiblioteca\livro\bin\Debug\net8.0\livro.exe
+C:\Users\Aluno\Desktop\abner\GerenciamentoBiblioteca\livro\bin\Debug\net8.0\livro.deps.json
+C:\Users\Aluno\Desktop\abner\GerenciamentoBiblioteca\livro\bin\Debug\net8.0\livro.runtimeconfig.json
+C:\Users\Aluno\Desktop\abner\GerenciamentoBiblioteca\livro\bin\Debug\net8.0\livro.dll
+C:\Users\Aluno\Desktop\abner\GerenciamentoBiblioteca\livro\bin\Debug\net8.0\livro.pdb
+C:\Users\Aluno\Desktop\abner\GerenciamentoBiblioteca\livro\obj\Debug\net8.0\livro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\abner\GerenciamentoBiblioteca\livro\obj\Debug\net8.0\livro.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\abner\GerenciamentoBiblioteca\livro\obj\Debug\net8.0\livro.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\abner\GerenciamentoBiblioteca\livro\obj\Debug\net8.0\livro.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\abner\GerenciamentoBiblioteca\livro\obj\Debug\net8.0\livro.sourcelink.json
+C:\Users\Aluno\Desktop\abner\GerenciamentoBiblioteca\livro\obj\Debug\net8.0\livro.dll
+C:\Users\Aluno\Desktop\abner\GerenciamentoBiblioteca\livro\obj\Debug\net8.0\refint\livro.dll
+C:\Users\Aluno\Desktop\abner\GerenciamentoBiblioteca\livro\obj\Debug\net8.0\livro.pdb
+C:\Users\Aluno\Desktop\abner\GerenciamentoBiblioteca\livro\obj\Debug\net8.0\livro.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\abner\GerenciamentoBiblioteca\livro\obj\Debug\net8.0\ref\livro.dll
